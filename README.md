@@ -19,10 +19,10 @@
         }
     </style>
 </head>
+
 <body>
 
     <h1>Welcome to My Website</h1>
-    <p>This website is made in 30 minutes!</p>
 
     <button onclick="alert('Hello Niranjan!')">Click Me</button>
 
